@@ -1,1 +1,2 @@
-# c108-T-class-activities
+# Normal-Distribution
+solution for c108
